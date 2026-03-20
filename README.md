@@ -16,13 +16,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-### 📊 Stats
+### Stats
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a software engineering student from Cambodia,
 passionate about building things from scratch.
