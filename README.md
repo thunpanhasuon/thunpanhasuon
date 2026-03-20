@@ -16,9 +16,27 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
 ### 📊 Stats
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👨‍💻 About Me
+
+I'm a software engineering student from Cambodia,
+passionate about building things from scratch.
+Currently writing a compiler and learning Rust.
+I love low-level systems, open source, and understanding
+how computers *really* work.
+
+</td>
+<td valign="top" width="50%">
 
 <div align="right">
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunpanhasuon&layout=compact&langs_count=8"/>
 </div>
+
+</td>
+</tr>
+</table>
