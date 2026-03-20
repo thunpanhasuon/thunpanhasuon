@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi My name is Panha 👋
 
-- 🔭 I'm currently building a **compiler** from scratch, just for fun
-- 🌱 Studying Software Engineering at **RUPP**
-- 💻 Interested in **systems programming**, low-level software, and compilers
-- 👯 Open to collaborating on projects — especially systems or tooling work
-- 🤔 Looking to grow in **Software Engineering** and connect with other builders
+-  I'm currently building a **compiler** from scratch, just for fun
+-  Studying Software Engineering at **RUPP**
+-  Interested in **systems programming**, low-level software, and compilers
+-  Open to collaborating on projects — especially systems or tooling work
+-  Looking to grow in **Software Engineering** and connect with other builders
 
 ---
 
