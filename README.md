@@ -1,4 +1,4 @@
-## Hi My name is Panha 👋
+## Hi my name is Panha 👋
 
 -  I'm currently building a **compiler** from scratch, just for fun
 -  Studying Software Engineering at **RUPP**
