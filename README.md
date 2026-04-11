@@ -8,8 +8,7 @@ I'm a software engineer from Cambodia, and I'm silly programmer who write code j
 3. My favorite editor is **Neovim**, because **Emacs** isn't a real editor  
 4. I think of bugs as **unexpected features** and **segmentation faults** just a a normal day ✨
 5. I'm a a beginner **System Programming** 
-7. I dislike Nvidia and Microsoft
-8. I love **pizza** :)
+6. I love **pizza** :)
 
 ## Academic Info
 - **High School** Ressey Keo High School   
