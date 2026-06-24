@@ -1,13 +1,14 @@
-## Hello, I'm Suon ThunPanha
+# Hi, I'm Panha
 
-Software engineer from Cambodia. I build systems-level software in C and Rust.
+Intern at SKAI Technology, working on backend and web. Based in Phnom Penh.
 
-**Currently working on:**
-- [Nixie](https://github.com/thunpanhasuon/Nixie) - A Linux SysV monitoring daemon in C
-- Learning interpriter in Rust while learning rust in the process
-- Learning python and DSA at spaire time 
+## Currently
+Interning and learning as I go.
 
-**Academic:** Information Technology Engineering @ RUPP
+## Stack
+JavaScript · TypeScript · Next.js · PostgreSQL
 
+## Find me
+→ [bookie-blog](https://bookie-blog-panha.vercel.app)
 
 
