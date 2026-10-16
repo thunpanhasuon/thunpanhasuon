@@ -1,8 +1,10 @@
-<img src="https://github.com/thunpanhasuon.png" width="160" alt="Panha's profile photo">
+<img align="left" src="./assets/profile.png" width="180" alt="Panha's profile photo">
 
 # Hi, I'm Panha 👋
 
 I'm a software developer focused on C++ and embedded systems. I'm interested in systems programming and reverse engineering, and I enjoy learning how software works under the hood.
+
+<br clear="left">
 
 ## Core focus
 
