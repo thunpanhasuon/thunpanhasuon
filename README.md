@@ -1,6 +1,6 @@
 # Hi, I'm Panha 👋
 
-I'm a software developer focused on C++ and embedded systems. I'm interested in systems programming, reverse engineering, and cybersecurity, and I enjoy learning how software works under the hood.
+I'm a software developer focused on C++ and embedded systems. I'm interested in systems programming and reverse engineering, and I enjoy learning how software works under the hood.
 
 ## Core focus
 
@@ -13,8 +13,7 @@ I'm a software developer focused on C++ and embedded systems. I'm interested in 
 
 - C and memory management
 - Rust for systems programming
-- Language implementation through lexer and parser projects
-- Binary analysis with Ghidra, GDB, and x64dbg
+- Reverse engineering and binary analysis with Ghidra, GDB, and x64dbg
 - JavaScript and Python for small experiments and tooling
 
 ## Tools & technologies
