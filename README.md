@@ -1,4 +1,4 @@
-<img align="left" src="./assets/profile.png" width="180" alt="Panha's profile photo">
+<img align="left" src="./assets/touhou.jpg" width="180" alt="Panha's profile photo">
 
 ### Hi, I'm Panha 👋
 
