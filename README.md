@@ -9,7 +9,6 @@ I'm a software developer focused on C++ and embedded systems. I'm interested in 
 ### Core focus
 
 - C++ development
-- Embedded systems
 - Low-level programming and debugging
 - Linux and operating system fundamentals
 
@@ -17,7 +16,6 @@ I'm a software developer focused on C++ and embedded systems. I'm interested in 
 
 - C and memory management
 - Rust for systems programming
-- Reverse engineering and binary analysis with Ghidra, GDB, and x64dbg
 - JavaScript and Python for small experiments and tooling
 
 ### Tools & technologies
