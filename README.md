@@ -2,7 +2,7 @@
 
 ### Hi, I'm Panha 👋
 
-I'm devOps/infra engineer yeah uhhhhhhhhhhhh 
+I'm an intern devOps/infra engineer yeah uhhhhhhhhhhhh 
 
 <br clear="left">
 
